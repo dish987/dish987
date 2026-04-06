@@ -8,11 +8,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduz
 * **Linguagens:** JavaScript (ES6+), C.
 * **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox, UI/UX.
 * **Banco de Dados & Versionamento:** MySQL, Git e GitHub.
+* **API & Dados:** Fetch API, JSON, LocalStorage.
 * **Outras Ferramentas:** VS Code, Excel, Word.
 
 ---
 
 ### 📂 Projetos e Estudos em Destaque
+
+#### [☕ Cafeteria Online (Dynamic Menu)](https://www.linkedin.com/feed/update/urn:li:activity:7440621186352312321/)
+Web app que utiliza a **Fetch API** para renderização dinâmica de produtos.
+* **Destaque:** Consumo de dados para gerar automaticamente elementos HTML, eliminando a necessidade de alterar o código-fonte HTML para atualizar os itens no cardápio.
 
 #### [🗓️ Digital Task Planner](https://github.com/dish987/To-Do-List)
 Aplicação de planejamento diário desenvolvida com **JavaScript Orientado a Objetos (POO)**.
