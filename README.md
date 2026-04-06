@@ -6,7 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduz
 
 ### 🚀 Tecnologias e Ferramentas
 * **Linguagens:** JavaScript (ES6+), C.
-* **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox e Responsividade.
+* **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox, UI/UX.
 * **Banco de Dados & Versionamento:** MySQL, Git e GitHub.
 * **Outras Ferramentas:** VS Code, Excel, Word.
 
