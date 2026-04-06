@@ -1,40 +1,39 @@
 # Olá, eu sou o João Dorini!
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduzzi. Com foco em desenvolvimento web, lógica de programação e arquitetura de sistemas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduzzi. Busco constantemente aprender e evoluir, aplicando lógica para desenvolver soluções eficientes para problemas reais.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-* **Linguagens:** JavaScript (ES6+), C, HTML5, CSS3.
-* **Web Development:** CSS Grid, Flexbox, Manipulação de DOM e Programação Orientada a Objetos (POO).
-* **Backend & Ferramentas:** Node.js, Integração com APIs, LocalStorage.
-* **Acadêmico:** Eletrônica Digital (Circuitos Lógicos), Arquitetura de Sistemas Operacionais (Android/iOS).
-* **Ferramentas:** Visual Studio Code, GIT, GITHUB, MySQL
+* **Linguagens:** JavaScript (ES6+), C.
+* **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox e Responsividade.
+* **Banco de Dados & Versionamento:** MySQL, Git e GitHub.
+* **Outras Ferramentas:** VS Code, Excel, Word.
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projetos e Estudos em Destaque
 
-#### 🗓️ Digital Task Planner
-Aplicação de planejamento diário desenvolvida com **JavaScript Orientado a Objetos**.
-* **Destaque:** Organização modular e persistência de dados via `localStorage`.
+#### [🗓️ Digital Task Planner](https://github.com/dish987/To-Do-List)
+Aplicação de planejamento diário desenvolvida com **JavaScript Orientado a Objetos (POO)**.
+* **Foco:** Organização modular de código e persistência de dados com `localStorage`.
 
-#### 🤖 Discord Bot
-Automação desenvolvida em **Node.js** para moderação e entretenimento.
-* **Funcionalidades:** Comandos de música, moderação e integração com API do Tenor.
-
-#### 🔬 Artigo Técnico: Evolução do Android
-Análise profunda sobre a arquitetura do sistema operacional Android e suas camadas de software.
+#### 🔬 Pesquisa Acadêmica: Arquitetura Android
+Artigo técnico detalhando a evolução e estrutura do sistema operacional Android.
 
 ---
 
-### 🎓 Educação e Prática
-* **Graduação:** Análise e Desenvolvimento de Sistemas - Faculdade Donaduzzi.
-* **Algoritmos:** Domínio de funções recursivas, manipulação de arrays e lógica em C.
-* **Lógica Digital:** Experiência em simplificação de expressões booleanas e diagramas lógicos.
+### 🎓 Formação e Cursos
+* **Graduação:** Análise e Desenvolvimento de Sistemas — Faculdade Donaduzzi.
+* **JavaScript (Udemy):** Curso focado em ES6+ e desenvolvimento moderno (146h).
+* **Programador de Sistemas Web (Biopark):** Formação técnica prática (156h).
+* **Sistema Intermediário (Biopark):** (120h).
 
 ---
 
 ### 📫 Contato
-* **LinkedIn:** https://www.linkedin.com/in/joaodorini/
-* **Email:** joaoguidorini@gmail.com
+* **E-mail:** [joaoguidorini@gmail.com](mailto:joaoguidorini@gmail.com)
+* **LinkedIn:** [linkedin](https://www.linkedin.com/in/joaodorini/)
+---
+
+Atualmente estou melhorando em **CSS Grid** e aperfeiçoando meus conhecimentos em **MySQL** para criar aplicações full-stack.
