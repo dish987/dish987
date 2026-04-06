@@ -9,6 +9,7 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculd
 * **Web Development:** CSS Grid, Flexbox, Manipulação de DOM e Programação Orientada a Objetos (POO).
 * **Backend & Ferramentas:** Node.js, Integração com APIs, LocalStorage.
 * **Acadêmico:** Eletrônica Digital (Circuitos Lógicos), Arquitetura de Sistemas Operacionais (Android/iOS).
+* **Ferramentas:** Visual Studio Code, GIT, GITHUB, MySQL
 
 ---
 
