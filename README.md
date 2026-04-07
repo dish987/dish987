@@ -5,7 +5,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduz
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-* **Linguagens:** JavaScript (ES6+), C.
+* **Linguagens:** JavaScript (ES6+)
 * **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox, UI/UX.
 * **Banco de Dados & Versionamento:** MySQL, Git e GitHub.
 * **API & Dados:** Fetch API, JSON, LocalStorage.
@@ -15,6 +15,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduz
 
 ### 📂 Projetos e Estudos em Destaque
 
+#### [🧪 Rick and Morty Explorer (API Integration)](https://github.com/dish987/API-Rick-And-Morty)
+Aplicação interativa que consome a API oficial de Rick and Morty para busca e filtragem dinâmica de personagens.
+* **Destaque:** Implementação de **JavaScript Assíncrono (Async/Await)** e lógica condicional para estilização dinâmica de componentes (status de vida) baseada no retorno do JSON.
+* **Foco:** Encapsulamento de funções em objetos e tratamento de erros com `try/catch/finally` para uma experiência de usuário resiliente.
+
 #### [☕ Cafeteria Online (Dynamic Menu)](https://www.linkedin.com/feed/update/urn:li:activity:7440621186352312321/)
 Web app que utiliza a **Fetch API** para renderização dinâmica de produtos.
 * **Destaque:** Consumo de dados para gerar automaticamente elementos HTML, eliminando a necessidade de alterar o código-fonte HTML para atualizar os itens no cardápio.
@@ -22,9 +27,6 @@ Web app que utiliza a **Fetch API** para renderização dinâmica de produtos.
 #### [🗓️ Digital Task Planner](https://github.com/dish987/To-Do-List)
 Aplicação de planejamento diário desenvolvida com **JavaScript Orientado a Objetos (POO)**.
 * **Foco:** Organização modular de código e persistência de dados com `localStorage`.
-
-#### 🔬 Pesquisa Acadêmica: Arquitetura Android
-Artigo técnico detalhando a evolução e estrutura do sistema operacional Android.
 
 ---
 
