@@ -18,7 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduz
 #### [🧪 Rick and Morty Explorer (API Integration)](https://github.com/dish987/API-Rick-And-Morty)
 Aplicação interativa que consome a API oficial de Rick and Morty para busca e filtragem dinâmica de personagens.
 * **Destaque:** Implementação de **JavaScript Assíncrono (Async/Await)** e lógica condicional para estilização dinâmica de componentes (status de vida) baseada no retorno do JSON.
-* **Foco:** Encapsulamento de funções em objetos e tratamento de erros com `try/catch/finally` para uma experiência de usuário resiliente.
+* **Foco:** Encapsulamento de funções em objetos e tratamento de erros com `try/catch/finally` para uma boa experiência de usuário.
 
 #### [☕ Cafeteria Online (Dynamic Menu)](https://www.linkedin.com/feed/update/urn:li:activity:7440621186352312321/)
 Web app que utiliza a **Fetch API** para renderização dinâmica de produtos.
