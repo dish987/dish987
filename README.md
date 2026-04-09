@@ -1,11 +1,11 @@
 # Olá, eu sou o João Dorini!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduzzi. Busco constantemente aprender e evoluir, aplicando lógica para desenvolver soluções eficientes para problemas reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Donaduzzi. Busco dsenvolver soluções eficientes para problemas reais.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-* **Linguagens:** JavaScript (ES6+)
+* **Linguagens:** JavaScript (ES6+), C
 * **Web Development:** HTML5, CSS3, Bootstrap, CSS Grid, Flexbox, UI/UX.
 * **Banco de Dados & Versionamento:** MySQL, Git e GitHub.
 * **API & Dados:** Fetch API, JSON, LocalStorage.
@@ -41,6 +41,3 @@ Aplicação de planejamento diário desenvolvida com **JavaScript Orientado a Ob
 ### 📫 Contato
 * **E-mail:** [joaoguidorini@gmail.com](mailto:joaoguidorini@gmail.com)
 * **LinkedIn:** [linkedin](https://www.linkedin.com/in/joaodorini/)
----
-
-Atualmente estou melhorando em **CSS Grid** e aperfeiçoando meus conhecimentos em **MySQL** para criar aplicações full-stack.
